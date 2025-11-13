@@ -159,7 +159,7 @@ git clone <your-repo-url>
 2. 安装依赖：
 
 ```bash
-pip install -r requirements.txt   # （如有）
+pip install -r requirements.txt   # 
 ```
 
 3. 依次运行 Notebook：
